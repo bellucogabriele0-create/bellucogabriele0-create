@@ -1,8 +1,7 @@
 # Ciao, sono Gabriele Belluco! 👋
 
 <p align="center">
-  <img src="path/to/your/custom_banner.png" alt="Gabriele Belluco Banner" width="100%">
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=250&section=header&text=Gabriele%20Belluco&fontSize=70&fontColor=ffffff&animation=fadeIn" width="100%"></p>
 
 ## 🚀 Full-Stack Developer
 
