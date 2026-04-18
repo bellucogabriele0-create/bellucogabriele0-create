@@ -43,17 +43,6 @@ Costruisco applicazioni web complete: dal front-end moderno fino a backend scala
   <img src="https://skillicons.dev/icons?i=git,github" />
 </p>
 
----
-
-## 📂 Progetti Principali
-
-👉 Qui devi inserire roba SERIA (questo è il tuo punto debole adesso)
-
-- 🍕 Sistema ordini pizzeria (React + Raspberry Pi + stampa automatica)
-- 📊 Dashboard web (React + API REST)
-- 🔐 Sistema autenticazione utenti (Spring Security)
-
-*(Se non hai questi progetti pubblici → sei invisibile)*
 
 ---
 
